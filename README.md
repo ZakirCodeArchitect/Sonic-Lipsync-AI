@@ -43,8 +43,9 @@ conda install nvidia/label/cuda-12.6.2::cuda-toolkit
 ### 📄 4. View and update the requirements.txt
 ```bash
 cat requirements.txt
-- remove the torch commands (total 3)
 ```
+- remove the torch commands (total 3)
+  
 
 ### 🔥 5. Install PyTorch with CUDA 12.6
 ```bash
